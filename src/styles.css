@@ -1,0 +1,19 @@
+.App {
+  max-width: 800px;
+  font-family: sans-serif;
+  margin: auto;
+}
+
+.step-container {
+  min-height: 300px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-buttons {
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
